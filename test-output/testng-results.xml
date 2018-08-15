@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3568" started-at="2018-08-09T14:52:55Z" finished-at="2018-08-09T14:52:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3568" started-at="2018-08-09T14:52:55Z" finished-at="2018-08-09T14:52:59Z">
+      <class name="APITesting.com.org.api.WheaterGetRequest">
+        <test-method status="PASS" signature="Test_10()[pri:0, instance:APITesting.com.org.api.WheaterGetRequest@1e88b3c]" name="Test_10" duration-ms="3523" started-at="2018-08-09T18:52:55Z" finished-at="2018-08-09T18:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_10 -->
+      </class> <!-- APITesting.com.org.api.WheaterGetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
